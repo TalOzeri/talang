@@ -1,1 +1,1 @@
-return 80;
+exit 50;
